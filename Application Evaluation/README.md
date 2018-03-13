@@ -6,3 +6,5 @@ d.	The total time from starting to enter the first record to finishing the last 
 e.	The number of times the user presses the “backspace” key while entering all 10 records.  
 
 These details can be used to evaluate how efficiently a user can interact with your application.
+
+![alt text](https://github.com/RadhikaKalaiselvan/Human-Computer-Interaction/blob/master/Application%20Evaluation/Screen%20Shot%202018-03-13%20at%201.13.00%20PM.png)
