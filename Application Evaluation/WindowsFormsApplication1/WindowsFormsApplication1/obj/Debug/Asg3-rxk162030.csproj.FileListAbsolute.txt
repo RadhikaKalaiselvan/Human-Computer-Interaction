@@ -1,0 +1,9 @@
+E:\Asg3-rxk162030\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Asg3-rxk162030\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Asg3-rxk162030\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Asg3-rxk162030\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Asg3-rxk162030.csprojResolveAssemblyReference.cache
+E:\Asg3-rxk162030\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Asg3-rxk162030\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Asg3-rxk162030\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Asg3-rxk162030.csproj.GenerateResource.Cache
+E:\Asg3-rxk162030\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Asg3-rxk162030\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
