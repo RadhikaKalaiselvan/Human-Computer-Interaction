@@ -1,0 +1,9 @@
+E:\rxk162030Asg4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\rxk162030Asg4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\rxk162030Asg4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\rxk162030Asg4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchForm.resources
+E:\rxk162030Asg4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\rxk162030Asg4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\rxk162030Asg4.csproj.GenerateResource.Cache
+E:\rxk162030Asg4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\rxk162030Asg4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\rxk162030Asg4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\rxk162030Asg4.csprojResolveAssemblyReference.cache
